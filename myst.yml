@@ -1,0 +1,25 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 65155625-f39d-4de3-a542-25c163d34e8d
+  title: Python & Data Science
+  description: My notes about python and data science!
+  keywords:
+    - python
+    - jupyter-notebook
+    - data-science
+  authors: Sharafat Karim
+  github: SharafatKarim/python
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
+  exports:
+    - format: pdf
+      template: lapreprint-typst
+    
+site:
+  template: book-theme
+  options:
+    logo_text: Sharafat Karim
+    favicon: images/favicon.ico
+    logo: images/site_logo.svg
+    logo_dark: images/site_logo.svg
