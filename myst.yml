@@ -9,7 +9,7 @@ project:
     - jupyter-notebook
     - data-science
   authors: Sharafat Karim
-  github: SharafatKarim/python
+  github: SharafatKarim/python-data-science-notebook
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
 
   exports:
