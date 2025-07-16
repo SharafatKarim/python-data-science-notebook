@@ -4,6 +4,8 @@
 
 Welcome to my Python notebook! Here, I document my experiments, learning, and insights as I explore Python and Data Science. This repository serves as a living record of my journey, including code snippets, notes, and useful resources.
 
+- [Live URL](https://python.sharafat.xyz/)
+
 ## About This Project
 
 This notebook is built using [Jupyter Book](https://next.jupyterbook.org/) and leverages the power of [MyST Markdown](https://myst.tools) for enhanced documentation and interactivity. MyST enables rich formatting, executable code blocks, and seamless integration with Jupyter notebooks.
@@ -15,7 +17,7 @@ To set up this project locally:
 1. **Clone the repository:**
 
   ```bash
-  git clone https://github.com/SharafatKarim/python-data-science-notebook.git
+  git clone https://github.com/SharafatKarim/python-data-science-notebook
   cd python-data-science-notebook
   ```
 
