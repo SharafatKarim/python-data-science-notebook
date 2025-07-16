@@ -6,7 +6,7 @@ This notebook serves as a short reference to Python programming, numerical metho
 
 ## Introduction
 
-Python is a versatile, high-level programming language known for its readability and wide range of applications, from web development to scientific computing. Jupyter is an interactive computing environment that allows you to create and share documents containing live code, equations, visualizations, and narrative text. Numerical methods are techniques used to solve mathematical problems numerically, often when analytical solutions are difficult or impossible. Data science is an interdisciplinary field that uses scientific methods, algorithms, and systems to extract insights and knowledge from structured and unstructured data.
+Python is a versatile, high-level programming language known for its readability and wide range of applications, from web development to scientific computing. Jupyter is an interactive computing environment that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
 
 ## Installation
 
