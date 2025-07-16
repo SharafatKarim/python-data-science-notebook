@@ -68,7 +68,25 @@ import package_name
 For example:
 
 ```python
+import math # pre-installed module
+from datetime import datetime # pre-installed module
+import random as rnd # pre-installed module
+
+# Using imported modules
+print(math.sqrt(16))
+print(math.pi)
+
+# Current datetime
+now = datetime.now()
+print(now)
+
+# Random number
+print(rnd.randint(1, 10))
+
+# Common data science imports (third party)
 import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 ```
 
 ## 3. Using Jupyter Notebook
