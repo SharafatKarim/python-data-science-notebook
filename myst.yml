@@ -2,11 +2,14 @@
 version: 1
 project:
   id: 65155625-f39d-4de3-a542-25c163d34e8d
-  title: Python & Data Science
-  description: My notes about python and data science!
+  title: Python, NM & Data Science
+  description: My notebook of python, NM & data science!
   keywords:
     - python
     - jupyter-notebook
+    - numerical-methods
+    - data-analysis
+    - data-visualization
     - data-science
   authors: Sharafat Karim
   github: SharafatKarim/python-data-science-notebook
