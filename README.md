@@ -37,8 +37,10 @@ To set up this project locally:
 4. **Initialize Jupyter Book:**
 
   ```bash
-  jupyter book build .
+  jupyter-book start
   ```
+
+  It'll open a live server where you can view and interact with the notebook. Usually, it runs at `http://localhost:3000`.
 
 ## Resources
 
