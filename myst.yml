@@ -26,3 +26,6 @@ site:
     favicon: images/favicon.ico
     logo: images/site_logo.svg
     logo_dark: images/site_logo.svg
+    actions:
+    - title: Sharafat Karim - Python Notebook
+      url: https://python.sharafat.xyz
